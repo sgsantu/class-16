@@ -1,0 +1,105 @@
+.header{
+ background-color: #0E113C
+}
+.manu-image{
+   
+}
+.manu-image a{}
+.manu-image a img{
+    width: 100px;
+    padding-top: 7px;
+   
+}
+.manu-right{}
+.manu-right ul{
+    margin-bottom: 0;
+}
+.manu-right ul li{}
+.manu-right ul li a{
+    color: #fff;
+    padding: 10px 20px;
+    line-height: 70px;
+}
+
+/* banner-section */
+.banner-section{
+    background: url(https://i.ibb.co/SBD4RYD/intro-bg.jpg) center center no-repeat;
+    background-size: cover;  
+    padding: 200px;
+}
+.banner-section h1{
+    padding: 20px;
+}
+.banner-section p{
+   padding: 0% 10%;
+   
+   
+}
+.banner-section button{
+    width: 200px;
+    margin: auto;
+   
+}
+
+/* <!-- meet our teem --> */
+.teem-secion{
+    background-color: #BAC1F3;
+    padding: 50px;
+}
+.teem-secion h1{
+    padding: 20px 0px;
+    text-transform: uppercase;
+}
+.teem-secion  .card{
+    padding: 30px;
+    border: none;
+    background-color: #BAC1F3;
+
+}
+.teem-secion  .card img{
+    width: 150px;
+    margin: auto;
+}
+.teem-secion  .card h4{
+    font-weight: 600;
+    padding: 10px;
+}
+.teem-secion  .card p{
+    width: 150px;
+    margin: auto;
+    padding: 10px 0px;
+    font-size: 13px
+       
+}
+.teem-secion  .card button{
+width: 150px;
+    margin: auto
+}
+
+/* <!-- about setion --> */
+.about-setion{
+    background-color: #C2D4EA;
+    padding: 30px;
+}
+.about-setion h1{
+    
+}
+.about-setion ul{}
+.about-setion ul li{
+    list-style: none;
+}
+.about-us-l-p{
+    padding: 18px 0px;
+}
+.about-us-l-r{}
+.about-us-l-r-p-2{
+    font-size: 21px;
+}
+
+/* contact */
+.contact{
+    background-color: #f5f5f5;
+}
+.contact iframe{
+    max-width: 100%;
+}
